@@ -21,6 +21,7 @@
 		4555A42C2D2BE5B100147EE3 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4555A42B2D2BE5B100147EE3 /* LandmarkDetail.swift */; };
 		4555A42E2D2CD9AA00147EE3 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4555A42D2D2CD9AA00147EE3 /* FavoriteButton.swift */; };
 		4555A4322D2F666B00147EE3 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4555A4312D2F666B00147EE3 /* HexagonParameters.swift */; };
+		4555A4342D2F670400147EE3 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4555A4332D2F670400147EE3 /* BadgeBackground.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		4555A42B2D2BE5B100147EE3 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		4555A42D2D2CD9AA00147EE3 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 		4555A4312D2F666B00147EE3 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
+		4555A4332D2F670400147EE3 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 			children = (
 				4555A4142D2BD5A100147EE3 /* ContentView.swift */,
 				4555A4312D2F666B00147EE3 /* HexagonParameters.swift */,
+				4555A4332D2F670400147EE3 /* BadgeBackground.swift */,
 				4555A42F2D2CDABD00147EE3 /* Landmarks */,
 				4555A4302D2CDADA00147EE3 /* Helper */,
 			);
@@ -218,6 +221,7 @@
 				4555A4322D2F666B00147EE3 /* HexagonParameters.swift in Sources */,
 				4555A42A2D2BDE8B00147EE3 /* LandmarkList.swift in Sources */,
 				4555A42C2D2BE5B100147EE3 /* LandmarkDetail.swift in Sources */,
+				4555A4342D2F670400147EE3 /* BadgeBackground.swift in Sources */,
 				4555A41E2D2BD5A100147EE3 /* LandmarksApp.swift in Sources */,
 				4555A41F2D2BD5A100147EE3 /* MapView.swift in Sources */,
 				4555A4282D2BD9AA00147EE3 /* LandmarkRow.swift in Sources */,
