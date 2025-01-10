@@ -39,6 +39,6 @@ struct CategoryRow: View {
     let landmarks = ModelData().landmarks
     return CategoryRow(
         categoryName: landmarks[0].category.rawValue,
-        items: Array(landmarks.prefix(3))
+        items: Array(landmarks.prefix(4))
     )
 }

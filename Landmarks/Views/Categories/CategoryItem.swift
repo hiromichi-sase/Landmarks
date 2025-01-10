@@ -15,7 +15,6 @@ struct CategoryItem: View {
             landmark.image
                 .renderingMode(.original)
                 .resizable()
-                .scaledToFit()
                 .frame(width: 155, height: 155)
                 .cornerRadius(5)
             Text(landmark.name)
