@@ -123,9 +123,22 @@
 		45C953902D37638100FEE92E /* WatchLandmarks Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WatchLandmarks Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		45C953B82D379E2700FEE92E /* Exceptions for "WatchLandmarks Watch App" folder in "WatchLandmarks Watch App" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				PushNotificationPayload.apns,
+			);
+			target = 45C9538F2D37638100FEE92E /* WatchLandmarks Watch App */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		45C953912D37638100FEE92E /* WatchLandmarks Watch App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				45C953B82D379E2700FEE92E /* Exceptions for "WatchLandmarks Watch App" folder in "WatchLandmarks Watch App" target */,
+			);
 			path = "WatchLandmarks Watch App";
 			sourceTree = "<group>";
 		};
