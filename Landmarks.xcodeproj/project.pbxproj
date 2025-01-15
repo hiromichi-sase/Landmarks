@@ -158,11 +158,10 @@
 			isa = PBXGroup;
 			children = (
 				4555A4142D2BD5A100147EE3 /* ContentView.swift */,
-				4555A4402D2F9FB400147EE3 /* Hike.swift */,
 				4555A42F2D2CDABD00147EE3 /* Landmarks */,
-				4555A43B2D2F9DD700147EE3 /* Badge */,
+				4555A43B2D2F9DD700147EE3 /* Badges */,
 				4555A4462D2FA3DB00147EE3 /* Hikes */,
-				4555A4302D2CDADA00147EE3 /* Helper */,
+				4555A4302D2CDADA00147EE3 /* Helpers */,
 				457BE3362D30A4C400D2232F /* Categories */,
 				454B8E242D30F9FD00D51CD5 /* Profiles */,
 				4523B5542D3615B500976C38 /* PageView */,
@@ -176,6 +175,7 @@
 				4555A4192D2BD5A100147EE3 /* ModelData.swift */,
 				4555A4152D2BD5A100147EE3 /* Landmark.swift */,
 				454B8E212D30F97100D51CD5 /* Profile.swift */,
+				4555A4402D2F9FB400147EE3 /* Hike.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -199,17 +199,17 @@
 			path = Landmarks;
 			sourceTree = "<group>";
 		};
-		4555A4302D2CDADA00147EE3 /* Helper */ = {
+		4555A4302D2CDADA00147EE3 /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
 				4555A4132D2BD5A100147EE3 /* CircleImage.swift */,
 				4555A4182D2BD5A100147EE3 /* MapView.swift */,
 				4555A42D2D2CD9AA00147EE3 /* FavoriteButton.swift */,
 			);
-			path = Helper;
+			path = Helpers;
 			sourceTree = "<group>";
 		};
-		4555A43B2D2F9DD700147EE3 /* Badge */ = {
+		4555A43B2D2F9DD700147EE3 /* Badges */ = {
 			isa = PBXGroup;
 			children = (
 				4555A4392D2F97DB00147EE3 /* Badge.swift */,
@@ -217,8 +217,9 @@
 				4555A4352D2F8E2900147EE3 /* BadgeSymbol.swift */,
 				4555A4372D2F959700147EE3 /* RotatedBadgeSymbol.swift */,
 				4555A4312D2F666B00147EE3 /* HexagonParameters.swift */,
+				454B8E2B2D30FCDD00D51CD5 /* HikeBadge.swift */,
 			);
-			path = Badge;
+			path = Badges;
 			sourceTree = "<group>";
 		};
 		4555A4462D2FA3DB00147EE3 /* Hikes */ = {
@@ -228,7 +229,6 @@
 				4555A4432D2FA3DB00147EE3 /* HikeDetail.swift */,
 				4555A4442D2FA3DB00147EE3 /* HikeGraph.swift */,
 				4555A4452D2FA3DB00147EE3 /* HikeView.swift */,
-				454B8E2B2D30FCDD00D51CD5 /* HikeBadge.swift */,
 			);
 			path = Hikes;
 			sourceTree = "<group>";

@@ -23,5 +23,5 @@ struct PageView<Page: View>: View {
 }
 
 #Preview {
-    PageView(pages: ModelData().features.map { FeatureCard(landmark: $0)})
+    PageView(pages: ModelData().features.map { FeatureCard(landmark: $0) })
 }
