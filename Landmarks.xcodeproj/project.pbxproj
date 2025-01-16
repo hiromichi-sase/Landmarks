@@ -44,7 +44,6 @@
 		4555A44A2D2FA3DB00147EE3 /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4555A4452D2FA3DB00147EE3 /* HikeView.swift */; };
 		457BE3352D30A41400D2232F /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457BE3342D30A41400D2232F /* CategoryHome.swift */; };
 		45C9539D2D37638200FEE92E /* WatchLandmarks Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 45C953902D37638100FEE92E /* WatchLandmarks Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		45C953A22D3763E100FEE92E /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4555A4292D2BDE8B00147EE3 /* LandmarkList.swift */; };
 		45C953A32D3763E100FEE92E /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4555A4272D2BD9AA00147EE3 /* LandmarkRow.swift */; };
 		45C953A42D3763E100FEE92E /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4555A4152D2BD5A100147EE3 /* Landmark.swift */; };
 		45C953A52D3763E100FEE92E /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4555A4192D2BD5A100147EE3 /* ModelData.swift */; };
@@ -527,7 +526,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				45C953A22D3763E100FEE92E /* LandmarkList.swift in Sources */,
 				45C953A32D3763E100FEE92E /* LandmarkRow.swift in Sources */,
 				45C953A42D3763E100FEE92E /* Landmark.swift in Sources */,
 				45C953A52D3763E100FEE92E /* ModelData.swift in Sources */,
