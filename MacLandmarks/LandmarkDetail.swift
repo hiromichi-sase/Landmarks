@@ -66,7 +66,6 @@ struct LandmarkDetail: View {
             .offset(y: -50)
         }
         .navigationTitle(landmark.name)
-        .navigationBarTitleDisplayMode(.inline)
     }
 }
 
